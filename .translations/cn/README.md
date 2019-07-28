@@ -7,6 +7,7 @@
 
 在这个教程中, 我们用C实现了基于 [开放寻址法](https://en.wikipedia.org/wiki/Open_addressing), 
 [双重哈希法](https://en.wikipedia.org/wiki/Double_hashing) 的哈希表。
+
 通过这个教程, 你将会学到这些:
 
 - 理解哈希这个数据结构的底层原理。
@@ -26,13 +27,13 @@
 
 ## Contents
 
-1。[简介](/01-introduction)
-2。[哈希表 structure](/02-hash-table)
-3。[哈希函数](/03-hashing)
-4。[处理冲突](/04-collisions)
-5。[相关方法](/05-methods)
-6。[容量调整](/06-resizing)
-6。[附录: 其他处理冲突的办法](/07-appendix)
+1.[简介](/01-introduction)
+2.[哈希表 structure](/02-hash-table)
+3.[哈希函数](/03-hashing)
+4.[处理冲突](/04-collisions)
+5.[相关方法](/05-methods)
+6.[容量调整](/06-resizing)
+6.[附录: 其他处理冲突的办法](/07-appendix)
 
 ## Credits
 
